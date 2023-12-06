@@ -1,7 +1,8 @@
 
 #   Food Delivery Website
 
-I would like to share my first ever project that I did while learning web development . 
+I would like to share my second task in my web development internship at codsoft as my second task.
+
 
 
 ## Authors
